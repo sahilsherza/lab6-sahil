@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab6.py
+=================================================================
+    User login name: sahil
+    Linux system name: sahil-virtual-machine
+    Python executable: /usr/bin/python3
+    Python version: 31012
+    OS Platform: linux
+    Working Directory: /home/sahil/ops445/lab6
+    Start at: Sun Nov 17 11:15:32 2024
+=================================================================
